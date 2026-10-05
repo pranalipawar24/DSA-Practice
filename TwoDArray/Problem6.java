@@ -12,11 +12,6 @@ public class Problem6 {
         int left = 0; //starting column
         int right = cols - 1; //ending column
 
-
-
-
-
-
         while (top <= bottom && left <= right) {
 
             // Step 1: Left to Right
